@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    width:80%;
+    max-width: 600px;
+    margin:20px auto 0;
+    color:white;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.poster-img{
+    width: 100%;
+    height:auto;
+    border:5px solid orangered;
+}
+
+h1{
+    text-transform: capitalize;
+    font-size:3rem;
+
+}
+
+p{
+    font-size: 1.5rem;
+}
